@@ -45,7 +45,7 @@ def markAttendence(name):
             dtstring = now.strftime('%H:%M:%S')
             f.writelines(f'\n{name},{dtstring}')
 
-markAttendence("sinnu1")       
+markAttendence("Elon1")       
 
     
 
